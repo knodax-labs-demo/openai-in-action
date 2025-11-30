@@ -1,5 +1,5 @@
-# openai-in-action
-Source code for the book OpenAI in Action by KnoDAX (https://www.amazon.com/dp/B0DQB8XXGJ
+# **OpenAI in Action — Companion Code Repository**
+This repository contains source code from the book OpenAI in Action by KnoDAX.
 
 **Note: This is a read-only repository for the book OpenAI in Action. External pull requests and contributions are not accepted.**
 
