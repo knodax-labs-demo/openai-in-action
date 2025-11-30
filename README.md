@@ -1,5 +1,7 @@
 # openai-in-action
-Source code for the book OpenAI in Action by KnoDAX
+Source code for the book OpenAI in Action by KnoDAX (https://www.amazon.com/dp/B0DQB8XXGJ
+
+**Note: This is a read-only repository for the book OpenAI in Action. External pull requests and contributions are not accepted.**
 
 # 🔑 How to Set Up Your OpenAI API Key
 To run the examples in this repository, you must configure an **OpenAI API key**. This key authenticates your requests to OpenAI’s GPT models. Follow the steps below to create, store, and securely use your key.
