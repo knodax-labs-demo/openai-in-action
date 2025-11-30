@@ -152,3 +152,15 @@ In your OpenAI dashboard:
 
 You can now run all examples, notebooks, and projects in the **OpenAI in Action** repository.
 
+<hr/>
+
+<h1>📌 Contributing Policy</h1>
+This repository is provided as companion material for the book OpenAI in Action (https://www.amazon.com/dp/B0DQB8XXGJ).
+At this time, external pull requests, comments, and contributions are not being accepted.
+If you notice an issue in the code or documentation, you may:
+<ul>
+<li>Submit feedback through the book’s support channels (YouTube, email, etc.)</li>
+<li>Or report mistakes through the appropriate contact listed in the book</li>
+</ul>    
+To keep this repository clean and stable for readers, all updates are made internally by the KnoDAX team.
+
