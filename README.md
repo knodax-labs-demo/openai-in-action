@@ -156,6 +156,12 @@ You can now run all examples, notebooks, and projects in the **OpenAI in Action*
 
 <hr/>
 
+### **Official Book on Amazon**
+
+**OpenAI in Action – KnoDAX**
+👉 **https://www.amazon.com/dp/B0DQB8XXGJ**
+
+<hr/>
 <h1>📌 Contributing Policy</h1>
 This repository is provided as companion material for the book OpenAI in Action (https://www.amazon.com/dp/B0DQB8XXGJ).
 At this time, external pull requests, comments, and contributions are not being accepted.
