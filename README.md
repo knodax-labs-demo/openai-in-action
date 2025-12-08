@@ -1,3 +1,10 @@
+
+<img width="1280" height="640" alt="OpenAI in Action " src="https://github.com/user-attachments/assets/d500e1ef-2f62-47e9-998d-0f25324175ca" />
+
+<p align="center">
+⭐ If this repo helps you, please give it a star! ⭐
+</p>
+
 # **OpenAI in Action — Companion Code Repository**
 This repository contains source code from the book OpenAI in Action by KnoDAX.
 
